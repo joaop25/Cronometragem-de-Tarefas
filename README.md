@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaop25/Cronometragem-de-Tarefas">
-    <img src=""https://github.com/joaop25/Cronometragem-de-Tarefas/tree/main/Cronometragem_de_prova/cronometro_para_tarefas.png"" alt="Logo" width="80" height="80">
+    <img src="https://github.com/joaop25/Cronometragem-de-Tarefas/tree/main/Cronometragem_de_prova/cronometro_para_tarefas.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Cronômetro para Tarefas</h3>
