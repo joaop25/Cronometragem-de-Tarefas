@@ -32,10 +32,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/joaop25/Cronometragem-de-Tarefas">
-    <img src="https://github.com/joaop25/Cronometragem-de-Tarefas/blob/main/Cronometragem_de_prova/cronometro_para_tarefas.png" alt="Logo" width="120" height="120">
+    <img src="https://github.com/joaop25/Cronometragem-de-Tarefas/blob/main/Cronometragem_de_prova/cronometro_para_tarefas.png" alt="Logo" width="567" height="243">
   </a>
 
 <h3 align="center">Cronômetro para Tarefas</h3>
+  
+<p>Nesse projeto foi realizado um cronometro para medir o tempo que cada pessoa gastou para realizar uma tarefa.</p>
+  <br />
+  <p>Foi utilizado alguns conceitos nesse projeto como: POO, Listas, Timer e Tick</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
