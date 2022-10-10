@@ -1,0 +1,16 @@
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\bin\Debug\netcoreapp3.1\Cronometragem_de_prova.exe
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\bin\Debug\netcoreapp3.1\Cronometragem_de_prova.deps.json
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\bin\Debug\netcoreapp3.1\Cronometragem_de_prova.runtimeconfig.json
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\bin\Debug\netcoreapp3.1\Cronometragem_de_prova.runtimeconfig.dev.json
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\bin\Debug\netcoreapp3.1\Cronometragem_de_prova.dll
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\bin\Debug\netcoreapp3.1\Cronometragem_de_prova.pdb
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.csproj.AssemblyReference.cache
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.Form1.resources
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.csproj.GenerateResource.cache
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.AssemblyInfoInputs.cache
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.AssemblyInfo.cs
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.csproj.CoreCompileInputs.cache
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.dll
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.pdb
+C:\Users\joao.fernandes\Desktop\codigos\Cronometragem_de_prova\Cronometragem_de_prova\obj\Debug\netcoreapp3.1\Cronometragem_de_prova.genruntimeconfig.cache

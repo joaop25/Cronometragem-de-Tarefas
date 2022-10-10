@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYPnm8GUBitDA214MAVSCHSq3rAqgFIZLN3ih7qP08iht/9CPLWEfCT7bce5mIbw7VQdfOWO2fP2717p9vU3IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.fernandes\\Desktop\\codigos\\Cronometragem_de_prova\\Cronometragem_de_prova\\Cronometragem_de_prova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.fernandes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
