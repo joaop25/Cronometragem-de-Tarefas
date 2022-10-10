@@ -36,3 +36,21 @@
   </a>
 
 <h3 align="center">Cronômetro para Tarefas</h3>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/joaop25/Cronometragem-de-Tarefas.svg?style=for-the-badge
+[contributors-url]: https://github.com/joaop25/Cronometragem-de-Tarefas/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/joaop25/Cronometragem-de-Tarefas.svg?style=for-the-badge
+[forks-url]: https://github.com/joaop25/Cronometragem-de-Tarefas/network/members
+[stars-shield]: https://img.shields.io/github/stars/joaop25/Cronometragem-de-Tarefas.svg?style=for-the-badge
+[stars-url]: https://github.com/joaop25/Cronometragem-de-Tarefas/stargazers
+[issues-shield]: https://img.shields.io/github/issues/joaop25/Cronometragem-de-Tarefas.svg?style=for-the-badge
+[issues-url]: https://github.com/joaop25/Cronometragem-de-Tarefas/issues
+[license-shield]: https://img.shields.io/github/license/joaop25/Cronometragem-de-Tarefas.svg?style=for-the-badge
+[license-url]: https://github.com/joaop25/Cronometragem-de-Tarefas/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joao-pedro-fernandes-95a125180/
+
+
